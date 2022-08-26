@@ -15,7 +15,6 @@ public class Main {
         System.out.println("Даже не спрашивайте, как Я сосчитал " + tomato + " помидорок. Меня мама заставила :(");
 
         // Task #2
-        // 27.12 ,  987 678 965 549 , 2,786 , false, 569 , -159 , 27897 , 67. //
         float santimeter = 27.12f;
         long cryptoCoin = 987678965549L;
         double ruble = 2.786;
