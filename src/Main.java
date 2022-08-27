@@ -82,6 +82,8 @@ public class Main {
         System.out.println("При ежедневной потере веса в " + b + "г, потребуется " + secondDiet + " дней");
         int averageValueDiet = needLoseWeight * 1000 / c;
         System.out.println("При ежедневной потере веса в " + c + "г, потребуется " + averageValueDiet + " дней");
+        int averageValue = secondDiet % firstDiet;
+        System.out.println("Среднее значение при ежедневной потере веса составляет " + averageValue + " дней");
 
         // Task #8
         int Maria = 67_760;
